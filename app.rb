@@ -17,7 +17,6 @@ class App < Sinatra::Base
     while i < @number.to_i 
       @phrase
     i = i+1
-  end 
     end 
     
   end 
