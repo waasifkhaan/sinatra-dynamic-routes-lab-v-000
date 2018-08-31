@@ -18,6 +18,7 @@ class App < Sinatra::Base
       @phrase
     i = i+1
     end 
+    @number.to_i
     
   end 
   
